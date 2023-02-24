@@ -1,0 +1,14 @@
+$darkbg : #111111;
+$lightbg : #ffffff;
+$lightborder: 2px solid #409eff;
+$elpricol:  #409eff;
+$lightGray: #e4e7ed;
+
+
+:export {
+    darkbg: $darkbg;
+    lightbg: $lightbg;
+    lightborder: $lightborder;
+    elpricol: $elpricol;
+    lightGray: $lightGray;
+}
